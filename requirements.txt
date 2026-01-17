@@ -1,0 +1,10 @@
+scikit-learn
+tqdm
+matplotlib
+pandas
+openpyxl
+grad-cam
+opencv-python
+
+# Run this manually
+# pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126
