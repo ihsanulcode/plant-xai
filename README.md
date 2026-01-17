@@ -1,4 +1,4 @@
-# Improving Generalization in Plant Disease Detection through Data Augmentation and Domain Adaptation
+# Plant Disease Detection through Data Augmentation and Domain Adaptation with Explainable AI
 
 ![Custom CNN Model](docs/customCNN%20Model.png)
 ![Explainable AI](docs/Figure_1.png)
